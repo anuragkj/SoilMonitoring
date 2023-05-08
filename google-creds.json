@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "soilitix",
+  "private_key_id": "cf14afce88be7270134e99e51aa4815e2e5a80da",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC2wjPWQrYK0eGF\naA3rje/vrzDRRhA7cTMV0Lz2ygMAKNin8ZwWiER6Vr1xRrKRDKxDchp5uHt1cDaW\npBsPydEdM69MPk0edR33glGkgS484gm5iDKwB+2cE/9VnObC9gtA2mSbHsRpJ7Ih\n6blw6NtU3TYsIw662babg5ywu86qpKvFjLKmSi54uMXy3928OA5Vxh18Hr03sGxs\nZ/da4A1J9qLJxUmkBCg/CLXkJHqsKz9iz/yDqmVx8Zil/dFDEIs8EgZg8iunnS/j\n1A8m9QdCaTysHr7GBAXM8NL1eIbI7k/ZuaouycAB3ZZSneNSJr217SZ9UKRQyZDf\naHieJkphAgMBAAECggEAIStdCiGgdZVDF5nbkOl5ZyiGNS1Aq/EvIuH4MdhXNBO1\nwsFkoWhI+WU9y83XgeDpcPJIINhdO+LKXYvaR4LK+8BSLAXQrFr4PeA+nhs9/5nM\nxwoTnQRLWTz95hVsgmzyfOpGQSsT3bvxJhuL5xS0HhJqDxeryDjUXiREb4UejLS4\nz/IAqHP6NAlLHATnnnP3xgrIOJMHsXMNSm7XE8X3MboXLYZP5nXbSFinBee7d8B4\nUgGkhT5zk0WOGw8P0e8BhyKCRHuWTWBRp7RMiilmcslz7bj9CGgQBLyiGXxkQEyN\n1VL/txTvdW9bd0au8Dp1IDUl44svaqaeilI+7Exo2wKBgQDgpAk/3XnrWyYOMI35\ncQjMpFwqU3KOcgOdxLaAJT9/h3M+l/kDhYe1jGFE+g9nkcieTX6slIqZFZ6ImYnD\nBFao0zKRh9rem3e60wdhNXWvStb5FeqT/ELzqKKAnKV+kEYWzTzWKAoPFn02pxz1\newiGBEMPwMV4NK0d2hdvUshvxwKBgQDQRW2GgsP1azc+a0AGa7bM/14KzfMawbLn\nWj3TI//QMh+B3GLLIiOxzvJla4u1rIvX5tcpERkhU64rmFXnuEHHVM1j7nSNU0lY\ncKw33FeRTJOoiNRM2Yy4B/1g/ZGkOTMKW7R5VB5/P4iZ+3/vNXmjQpomN8T40zln\nXhoHuOjElwKBgD4P06ZbT+WgBwGAlJjHi8DN39CpwUptYWZjBHCe2c4n48T1Q4yf\nhYC4yd6+nybj9eMWUdroJupoOKZQlOjV+AMoZh4ixGsf1JI+3xkSJfNJ395tGaPM\n28ppWovhuy8eON7v0NDxuuW0Nt+0h6GiXhZ4cvaVMXkmRHWs3TCaVFndAoGAcdYQ\n6F2fGAxTNLXQV/IWB3RpBYTOJMjMrXGAq2BY2YYb/JHmGdt+IRjZGqAuy80U3pxY\n7CRhVPr1DvUDt1TZ90adwMo8QGbOhx2GtD2mS0/MwWiQibS7GnebgaD3Mwjkofu/\n6DUXOjwSwP9bTPcwlhC4Sr1e1xY0oRApMCFccN8CgYAmZykk9lcW9HN0IqeB7Zrz\n/LZ8JlgtEJOl/Ps1yjxlg0oInJ4V4a00sifJ1UtWVaA+Z7Jl1Odc+riCZBDl0lGl\nrMgP8Qd8RskAIr2v7hkFx8C9wW+5K95nuviDZjLd8s2gmG7Rkph8pUUOu4odtSVu\nQIUvVmZSautFUBlG8+5Msw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "jeevan@soilitix.iam.gserviceaccount.com",
+  "client_id": "112553870876935833089",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/jeevan%40soilitix.iam.gserviceaccount.com"
+}
